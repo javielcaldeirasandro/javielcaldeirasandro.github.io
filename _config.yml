@@ -31,10 +31,10 @@ sass:
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
-- text: Style Guide
-  url: /style-guide/
+- text: Quem somos
+  url: /quem-somos/
+- text: Doaçōes
+  url: /doacoes/
 - text: Archives
   url: /tags/
 
