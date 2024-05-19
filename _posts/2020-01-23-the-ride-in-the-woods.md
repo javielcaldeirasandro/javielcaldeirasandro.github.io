@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "The Ride In The Woods"
-date:   2020-01-23
-featured_image: road.jpg
-tags: [Travel, Blogging]
+title:  "Apresentação"
+date:   2024-05-12
+tags: [RS, Flood]
 ---
-
+<iframe width="315" height="560"
+src="https://www.youtube.com/embed/ymPCkuYHLE0"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 <strong>Minimalism</strong> describes movements in various forms of art and design, especially visual art and music, wherein artists intend to expose the essence or identity of a subject through eliminating all non-essential forms, features or concepts. Minimalism is any design or style wherein the simplest and fewest elements are used to create the maximum effect.
 <blockquote>I enjoy going on motorcycle trips and stopping in small towns and enjoying drinks with the locals.</blockquote>
 As a specific movement in the arts it is identified with developments in post–World War II Western Art, most strongly with American visual arts in the 1960s and early 1970s. Prominent artists associated with this movement include Donald Judd, John McCracken, Agnes Martin, Dan Flavin, Robert Morris, Anne Truitt, and Frank Stella. It derives from the reductive aspects of Modernism and is often interpreted as a reaction against Abstract expressionism and a bridge to Postminimal art practices. <a title="Minimalism Source" href="http://en.wikipedia.org/wiki/Minimalism" target="_blank">{ Source }</a>

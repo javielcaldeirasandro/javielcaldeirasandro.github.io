@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: Help Daguimar
 
 # Below the site title
 tagline: Tales of a digital nomad.
@@ -39,8 +39,8 @@ navigation:
   url: /tags/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
+author_name: "Laira Souza"
+author_bio: "My name is Laura Souza Sampaio. I’m a brazilian journalist.  full-time adventure travel blogger "
 author_url: "https://justgoodthemes.com"
 author_location: "Vilnius, Lithuania"
 author_image: authorimage.jpg
